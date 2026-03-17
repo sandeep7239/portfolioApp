@@ -9,7 +9,7 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-![Portfolio-Preview](public/images/preview.png)
+<img width="1860" height="901" alt="image" src="https://github.com/user-attachments/assets/55a9dd58-39b8-44e6-9692-f217be56ccca" />
 
 ## License
 
